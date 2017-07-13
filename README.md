@@ -3,7 +3,7 @@ The goal of this project is to apply Map/Reduce techniques to analyse a dataset 
 See report.pdf and results.xlsx for full details and code implementation.
 
 ### DATASET
-The dataset olympictweets2016rio contains a large collection of Twitter messages captured during the Rio 2016 Olympics period. The messages were collected by connecting to Twitter Streaming API, and filtering only messages directly related to the Olympic Games (by requesting they include a related hashtag such as #Rio2016 or #rioolympics ).
+The dataset contains a large collection of Twitter messages captured during the Rio 2016 Olympics period. The messages were collected by connecting to Twitter Streaming API, and filtering only messages directly related to the Olympic Games (by requesting they include a related hashtag such as #Rio2016 or #rioolympics ).
 
 ### CONTENT ANALYSIS
 Histogram that depicts the distribution of tweet lengths (number of characters). To make the data more readable the bars is aggregated in groups of 5 (that is, 1-5, 6-10, and so on).
