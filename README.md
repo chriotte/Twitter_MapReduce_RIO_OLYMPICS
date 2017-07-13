@@ -8,6 +8,7 @@ The dataset contains a large collection of Twitter messages captured during the 
 ### CONTENT ANALYSIS
 Histogram that depicts the distribution of tweet lengths (number of characters). To make the data more readable the bars is aggregated in groups of 5 (that is, 1-5, 6-10, and so on).
 ![Tweet length](img/length.png)
+
 The average tweetlength is 107 characters. 
 
 ### TIME ANALYSIS 
@@ -20,7 +21,7 @@ During the 2016 Olympics supporters from several countries were expressing their
 This part of the project estimates what countries received the highest support from Twitter messages. Please note that there will be a strong bias towards English speaking countries, because of the methodology used when collecting the dataset.  
 
 15 Most supported Countries 
-'''
+```
 Brazil	1173700
 United States	1154410
 United Kingdom	720363
@@ -36,10 +37,10 @@ Jamaica	175963
 Finland	172946
 Guinea	170255
 China	161157
-'''
+```
 
 15 Most popular Hashtags 
-'''
+```
 #BRA	525955
 #USA	496897
 #TeamUSA	328532
@@ -55,7 +56,7 @@ China	161157
 #IND	102033
 #ITA	99725
 #espritbleu	99694
-'''
+```
 
 ## Author
 
